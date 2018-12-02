@@ -8,16 +8,7 @@ public class Sample {
 	 
 	 
 	 
-	 /*ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej
-		 ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej
-		 ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej
-		 ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej*/
-	 
-	 /*
-	 ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej
-	 ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej
-	 ahshgasg sdhbjdbdhjd hjsadbsjdsjd  jwehdwej
-	 ahshgasg sdhbjdbdhjd hjsadbs*/
+	
 	 
 }
 }
